@@ -1,6 +1,6 @@
 {
   "name": "study-release",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Having problems? want to contribute?",
   "main": "index.js",
   "scripts": {
