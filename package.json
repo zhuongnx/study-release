@@ -1,7 +1,7 @@
 {
   "name": "study-release",
   "version": "1.0.1",
-  "description": "Learning changelog tools",
+  "description": "Learning changelog tools and how to use changelog",
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
