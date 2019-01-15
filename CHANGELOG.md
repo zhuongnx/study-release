@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
 <a name=""></a>
+# [](https://github.com/zhuongnx/study-release/compare/v2.0.0...v) (2019-01-15)
+
+
+
+<a name=""></a>
 # [](https://github.com/zhuongnx/study-release/compare/v1.1.0...v) (2019-01-15)
 
 
