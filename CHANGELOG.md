@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name=""></a>
+# [](https://github.com/zhuongnx/study-release/compare/v1.1.0...v) (2019-01-15)
+
+
+### Features
+
+* **new-parser:** introduces a new parsing library ([a59beec](https://github.com/zhuongnx/study-release/commit/a59beec))
+
+
+### BREAKING CHANGES
+
+* **new-parser:** new library does not support foo-construct
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/zhuongnx/study-release/compare/v1.0.1...v1.1.0) (2019-01-15)
 
