@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name=""></a>
+# [](https://github.com/zhuongnx/study-release/compare/v2.0.1...v) (2019-01-15)
+
+
+### Bug Fixes
+
+* fix changelog file ([f28724c](https://github.com/zhuongnx/study-release/commit/f28724c))
+
+
+### Features
+
+* **new-parser:** introduces a new parsing library ([888720f](https://github.com/zhuongnx/study-release/commit/888720f))
+
+
+### BREAKING CHANGES
+
+* **new-parser:** new library does not support foo-construct
+
+
 
 <a name="2.0.0"></a>
 # [](https://github.com/zhuongnx/study-release/compare/v1.1.0...v) (2019-01-15)
