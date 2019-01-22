@@ -1,6 +1,6 @@
 {
   "name": "study release proj",
-  "version": "3.0.1-dev",
+  "version": "3.0.1",
   "description": "...Learning changelog tools and how to use changelog",
   "main": "index.js",
   "scripts": {
