@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
 <a name=""></a>
+# [](https://github.com/zhuongnx/study-release/compare/v3.0.0...v) (2019-01-22)
+
+
+* Change package.json ([d902e36](https://github.com/zhuongnx/study-release/commit/d902e36))
+* Remove hello.txt ([c7f9dc4](https://github.com/zhuongnx/study-release/commit/c7f9dc4))
+
+
+### Features
+
+* Add hello.txt file ([5b46928](https://github.com/zhuongnx/study-release/commit/5b46928))
+
+
+### BREAKING CHANGES
+
+* something change
+* wrong
+
+
+
+<a name=""></a>
 # [](https://github.com/zhuongnx/study-release/compare/v2.0.1...v) (2019-01-15)
 
 
