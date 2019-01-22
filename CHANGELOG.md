@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-<a name=""></a>
+<a name="3.0.0"></a>
 # [](https://github.com/zhuongnx/study-release/compare/v3.0.0...v) (2019-01-22)
 
 
@@ -22,7 +22,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 
 
-<a name=""></a>
+<a name="2.0.1"></a>
 # [](https://github.com/zhuongnx/study-release/compare/v2.0.1...v) (2019-01-15)
 
 
